@@ -1,6 +1,6 @@
 # restaurantReservations
 
-This template should help get you started developing with Vue 3 in Vite.
+Github Pages: https://vlasen.github.io/restaurant-reservations
 
 ## Recommended IDE Setup
 
